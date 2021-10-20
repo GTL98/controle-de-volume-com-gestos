@@ -3,7 +3,7 @@
 #  Toda a lógica mais detalhada está presente no arquivo "Controle de Volume com Jestos.ipynb" #
 #                                                                                              #
 #  Em caso de dúvidas, consultar a documentação:                                               #
-#      - "Aula 1 - Rastramento de mão (Introdução).ipynb" no link abaixo.                      #
+#      - "Aula 1 - Rastreamento de mão (Introdução).ipynb" no link abaixo.                     #
 #                                                                                              #
 #  GitHub: https://github.com/GTL98/curso-completo-de-visao-computacional-avancada-com-python  #
 #                                                                                              #
